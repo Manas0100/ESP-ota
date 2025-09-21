@@ -1,2 +1,3 @@
 version=1.0.1
-url=https://github.com/Manas0100/ESP-ota/raw/refs/heads/main/sketch_sep19c.ino.bin
+
+url=https://raw.githubusercontent.com/Manas0100/ESP-ota/main/sketch_sep19c.ino.bin
